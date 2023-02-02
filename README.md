@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **MarkSong535/MarkSong535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Mark (Zixuan) Song
+I am Mark (Zixuan) Song (He/His/Him).
+
+🔭 Currently in Tsinglan School, Dongguan, Guangdong, China.
+
+📫 [Email Address](mailto:78847784+MarkSong535@users.noreply.github.com)
 
 
-My Github Status
+## My Github Status
+
 ---
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marksong535)](https://github.com/marksong535/github-readme-stats)
+
 ---
+
+
