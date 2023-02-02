@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Mark (Zixuan) Song
+
+
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marksong535)](https://github.com/marksong535/github-readme-stats)
