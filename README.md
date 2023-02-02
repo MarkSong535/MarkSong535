@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 I am Mark (Zixuan) Song
 
 
+My Github Status
+---
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marksong535)](https://github.com/marksong535/github-readme-stats)
+---
