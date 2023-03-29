@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 I am Mark (Zixuan) Song (He/His/Him).
 
-😄 Going to Washington University in St. Louis this fall.
+🎉 Going to Washington University in St. Louis this fall.
 
-🔭 Currently in Tsinglan School, Dongguan, Guangdong, China.
+🏫 Currently in Tsinglan School, Dongguan, Guangdong, China.
 
 📫 [Email Address](mailto:78847784+MarkSong535@users.noreply.github.com)
 
-🔭 Currently working on [tensorcircuit](https://github.com/tencent-quantum-lab/tensorcircuit/)
+🔬 Currently working on [tensorcircuit](https://github.com/tencent-quantum-lab/tensorcircuit/)
 
 
 ## My Github Status
