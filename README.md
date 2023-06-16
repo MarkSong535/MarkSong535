@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 I am Mark (Zixuan) Song (He/His/Him).
 
+[My Site](https://marksong.tech)
+
+[My Git Repo(GitLab Self-hosted)](https://git.marksong.tech)
+
 🎉 Going to Washington University in St. Louis this fall.
 
-🏫 Currently in Tsinglan School, Dongguan, Guangdong, China.
+🏫 First Graduating Class of Tsinglan School.
 
 📫 [Email Address](mailto:78847784+MarkSong535@users.noreply.github.com)
 
