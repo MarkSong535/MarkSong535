@@ -19,7 +19,7 @@ I am Mark (Zixuan) Song (He/His/Him).
 
 [My Site](https://marksong.tech)
 
-[My Git Repo(GitLab Self-hosted)](https://git.marksong.tech)
+[My Git Repo(GitLab Self-hosted)](https://bitbucket.org/markstech1/workspace/repositories)
 
 🎉 Going to Washington University in St. Louis this fall.
 
