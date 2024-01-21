@@ -19,15 +19,13 @@ I am Mark (Zixuan) Song (He/His/Him).
 
 [My Site](https://marksong.tech)
 
-[My Git Repo (BitBucket)](https://bitbucket.org/markstech1/workspace/repositories)
+[My Bitbucket Repo (BitBucket)](https://bitbucket.org/markstech1/workspace/repositories)
 
-🎉 Going to Washington University in St. Louis this fall.
+🎉 Freshman of WashU and a member of Hengen Lab
 
 🏫 First Graduating Class of Tsinglan School.
 
 📫 [Email Address](mailto:78847784+MarkSong535@users.noreply.github.com)
-
-🔬 Currently working on [tensorcircuit](https://github.com/tencent-quantum-lab/tensorcircuit/)
 
 
 ## My Github Status
@@ -35,3 +33,4 @@ I am Mark (Zixuan) Song (He/His/Him).
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marksong535)](https://github.com/marksong535/github-readme-stats)
 ---
 
+_This page might not be updated, please visit [my site](https://marksong.tech) for most accurate info_
