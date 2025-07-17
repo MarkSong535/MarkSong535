@@ -19,9 +19,7 @@ I am Mark (Zixuan) Song (He/His/Him).
 
 [My Site](https://marksong.tech)
 
-[My Bitbucket Repo (BitBucket)](https://bitbucket.org/markstech1/workspace/repositories)
-
-🎉 Freshman of WashU and a member of Hengen Lab
+🎉 Rising Junior of WashU and a member of Hengen Lab
 
 🏫 First Graduating Class of Tsinglan School.
 
