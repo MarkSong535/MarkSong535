@@ -25,10 +25,11 @@ I am Mark (Zixuan) Song (He/His/Him).
 
 📫 [Email Address](mailto:78847784+MarkSong535@users.noreply.github.com)
 
-
+<!--
 ## My Github Status
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marksong535)](https://github.com/marksong535/github-readme-stats)
+
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marksong535)](https://github.com/marksong535/github-readme-stats)-->
 ---
 
 _This page might not be updated, please visit [my site](https://marksong.tech) for most accurate info_
