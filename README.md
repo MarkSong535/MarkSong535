@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Mark (Zixuan) Song (He/His/Him).
 
-🎉 Rising Junior of WashU and a member of [Hengen Lab](https://hengenlab.org)
+🎉 Final Year in WuSTL and a member of [Hengen Lab](https://hengenlab.org)
 
 🏫 First Graduating Class of Tsinglan School.
 
