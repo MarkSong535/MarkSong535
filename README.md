@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Mark (Zixuan) Song (He/His/Him).
+I am Mark (Zixuan) Song (He/His/Him). https://img.shields.io/badge/OPEN%20TO%20WORK-204560
 
-🎉 Final Year in WuSTL and a member of [Hengen Lab](https://hengenlab.org)
+
+
+<!--🎉 Final Year in WuSTL and a member of [Hengen Lab](https://hengenlab.org)-->
+
+🎉 WuSTL Class of 2026 with my BS degree in Computer Science, Mathematics, and BA degree in Neuroscience.
 
 🏫 First Graduating Class of Tsinglan School.
 
