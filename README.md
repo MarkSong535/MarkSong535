@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Mark (Zixuan) Song (He/His/Him). https://img.shields.io/badge/OPEN%20TO%20WORK-204560
+I am Mark (Zixuan) Song (He/His/Him). <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-204560" alt=Open To Work">
 
 
 
